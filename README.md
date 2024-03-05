@@ -19,6 +19,6 @@ Les fichiers importants à connaître :
 - `Index.html` : contient l'ébauche du code HTML
 - `css/Booki.css` : contient l'ébauche du code CSS 
 - `images` : contient les images utilisées
-- `Polices` : contient le fichier le de police Raleway
+- `Polices` : contient le fichier de police 'Raleway'
 
 
