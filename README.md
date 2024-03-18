@@ -17,7 +17,7 @@ Ce projet consiste à intégrer les maquettes desktop, tablette et mobile du sit
 Les fichiers importants à connaître :
 
 - `Index.html` : contient l'ébauche du code HTML
-- `css/Booki.css` : contient l'ébauche du code CSS 
+- `css/style.css` : contient l'ébauche du code CSS 
 - `images` : contient les images utilisées
 - `Polices` : contient le fichier de police 'Raleway'
 
